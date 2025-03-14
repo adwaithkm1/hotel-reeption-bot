@@ -9,3 +9,4 @@ google-cloud-speech
 gtts
 pygame
 SpeechRecognition
+gunicorn
