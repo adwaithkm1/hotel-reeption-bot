@@ -1,0 +1,11 @@
+flask
+flask-cors
+pandas
+google-generativeai
+google-auth
+requests
+captcha
+google-cloud-speech
+gtts
+playsound
+SpeechRecognition
