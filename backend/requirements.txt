@@ -7,5 +7,5 @@ requests
 captcha
 google-cloud-speech
 gtts
-playsound
+pygame
 SpeechRecognition
